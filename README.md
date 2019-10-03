@@ -3,6 +3,8 @@
 A small repo for testing some stuff,
 here i will note some commands i used.
 
+some usefull info : https://py-vscode.readthedocs.io/en/latest/index.html
+
 # Python env :
 * $ python -V  -> Python 3.7.0
 * pip install virtualenv
