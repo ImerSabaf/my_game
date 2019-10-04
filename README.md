@@ -65,3 +65,9 @@ And for finish :
         "--extension-pkg-whitelist=pygame"
     ],
 ```
+
+you can also add a .env file in your folder.
+it can add some specific things in there, like adding to pythonpath some folder !
+```
+PYTHONPATH=./little_rpg:${PYTHONPATH}
+```
